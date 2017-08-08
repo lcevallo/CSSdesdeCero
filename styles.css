@@ -1,3 +1,7 @@
-body{
-	background: lime;
+/* Modificar esto con la paleta de color del cliente*/
+header h1{
+	color: red;
+	background: green;
+	/* para alinear el titulo con el logo*/
+	margin-top: 7.5px; 
 }
